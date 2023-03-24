@@ -1,0 +1,1 @@
+Aplikace je hotová, avšak je v ní problém co se týče rerendru dat. Vždy když člověk klikne na tlačítko delete stav aplikace se resetuje. Protože se pole celé mění, kdybych měl více času opravil bych to.
